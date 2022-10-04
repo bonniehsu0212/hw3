@@ -1,0 +1,26 @@
+h1{
+    color: blue;
+    font-size: 32px;
+}
+p{
+    color: red;
+    font-size: 20px;
+}
+ul{
+    color: purple;
+    font-size: 20px;
+}
+li{
+    color: purple;
+    font-size: 20px;
+}
+a{
+    color: #000;
+}
+a:hover{
+    color: aqua;
+    font-size: 28px;
+}
+a:active{
+    color: plum;
+}
